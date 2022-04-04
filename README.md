@@ -7,7 +7,7 @@
 
 <b> About Me </b></br>
 
-- 👨🏻‍💻 I'm currently working on <b><i> Swift </b></i>
+- 👨🏻‍💻  I'm currently working on <b><i> Swift </b></i>
 - 🌱 I’m currently learning <b><i> Swift </b></i>
 - 📫 How to reach me: ilkaysever92@gmail.com
 - ⚡ Fun fact: Reading, Offroad, Camping, Coding, Traveling </br>
