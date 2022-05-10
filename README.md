@@ -14,9 +14,9 @@
 
 <b> Languages and Tools </b>
 
-<a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" height="34"></a>&nbsp;&nbsp;
-<a href="https://firebase.google.com"><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="28" height="32"></a>&nbsp;&nbsp;
-<a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" height="32"></a>
+<a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" height="36"></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com"><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" width="28" height="36"></a>&nbsp;&nbsp;
+<a href="https://github.com"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" width="32" height="32"></a>
 
 <b> Connect with me: </b>
 
