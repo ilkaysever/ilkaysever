@@ -21,4 +21,4 @@
 <b> Connect with me: </b>
 
 <a href="https://www.linkedin.com/in/ilkay-sever-904b20100/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1652171421~hmac=034b3683e294f85201374a427c7282c0" width="34" height="32"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@ilkaysever"><img src= "https://iconscout.com/icon/medium-52" width="28" height="32"></a>
+<a href="https://medium.com/@ilkaysever"><img src= "https://iconscout.com/icon/medium-1889501" width="28" height="32"></a>
